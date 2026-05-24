@@ -1,16 +1,19 @@
-## Hi there 👋
+## About Me
 
-<!--
-**Zengys118/Zengys118** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+RM 混子老登一枚 😎
 
-Here are some ideas to get you started:
+- 会一点 ROS
+- 会一点视觉
+- 会一点电控
+- 会一点机械
+- 什么都会一点
+- 什么都不精（大概）
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+每天：
+
+想法 ×100  
+实际完成 ×1
+
+目前正在研究：
+
+机器人 / AI / 奇怪东西
